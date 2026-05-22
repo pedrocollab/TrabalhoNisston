@@ -3,7 +3,8 @@
 # =========================================================
 parte de Pedro Henrique
 # Fonte: google.com
-Data de realização: 21/05/2026 
+Data de realização: 21/05/2026
+
 # 🧩 Ele não tem frescura (Multiparadigma)
 # O Python aceita vários estilos de programação.
 # Você pode usar funções simples ou classes e objetos.
@@ -49,17 +50,18 @@ resultado_final = quem_passou_de_ano(notas_dos_alunos)
 
 print("Notas dos aprovados:", resultado_final)
 
-# Fonte: pypi.org
-# Feito: 21/05/2026
-Data de realização: 21/05/2026
 
 Fontes de pesquisa:
 
-urlPython Software Foundationhttps://www.python.org
-urlDocumentação Oficial do Pythonhttps://docs.python.org/3/
-urlW3Schools Python Tutorialhttps://www.w3schools.com/python/
-urlGeeksforGeeks Python Overviewhttps://www.geeksforgeeks.org/python-programming-language-overview/
+urlPython Software Foundation https://www.python.org
+urlDocumentação Oficial do Python https://docs.python.org/3/
+urlW3Schools Python Tutorial https://www.w3schools.com/python/
+urlGeeksforGeeks Python Overview https://www.geeksforgeeks.org/python-programming-language-overview/
+
 Parte de Lucca
+# Fonte: pypi.org
+Data de realização: 21/05/2026
+
 História da linguagem
 
 A linguagem Python foi criada no final da década de 1980 por Guido van Rossum, nos Países Baixos. Seu desenvolvimento começou no Centro de Matemática e Ciência da Computação (CWI) e a primeira versão oficial foi lançada em 1991.
@@ -82,23 +84,27 @@ O símbolo oficial da linguagem possui duas cobras.
 Python é uma linguagem open source.
 Grandes empresas como Google e Netflix utilizam Python.
 A linguagem é muito usada em Inteligência Artificial e Machine Learning.
-Python possui uma filosofia chamada “Zen of Python”, com princípios de código simples e legível.     
+Python possui uma filosofia chamada “Zen of Python”, com princípios de código simples e legível.
+
 parte de Pedro Nobrega
 Data de realização: 21/05/2026
 
 Fontes de pesquisa:
 
-urlPython Software Foundationhttps://www.python.org
-urlDocumentação Oficial do Pythonhttps://docs.python.org/3/
-urlW3Schools Python Tutorialhttps://www.w3schools.com/python/
-urlGeeksforGeeks Python Overviewhttps://www.geeksforgeeks.org/python-programming-language-overview/
+urlPython Software Foundation https://www.python.org
+urlDocumentação Oficial do Python https://docs.python.org/3/
+urlW3Schools Python Tutorial https://www.w3schools.com/python/
+urlGeeksforGeeks Python Overview https://www.geeksforgeeks.org/python-programming-language-overview/
+
 Vantagens e desvantagens
+
 Vantagens
 Sintaxe simples e fácil de aprender.
 Grande quantidade de bibliotecas prontas.
 Funciona em diferentes sistemas operacionais.
 Muito utilizada no mercado de trabalho.
 Excelente para automação e ciência de dados.
+
 Desvantagens
 Pode ser mais lenta que linguagens compiladas como C++.
 Consome mais memória em alguns casos.

@@ -1,0 +1,118 @@
+# =========================================================
+# 🛠️ Explicando o Python "Gente Como a Gente"
+# =========================================================
+
+# 🧩 Ele não tem frescura (Multiparadigma)
+# O Python aceita vários estilos de programação.
+# Você pode usar funções simples ou classes e objetos.
+
+# ⚡ Conversa em tempo real (Interpretada)
+# O Python executa o código linha por linha.
+# 🧠 Inteligente, mas não aceita bagunça
+# (Tipagem Dinâmica e Forte)
+
+idade = 25
+
+numero = 5
+texto = "cinco"
+
+# Isso daria erro:
+# resultado = texto + numero
+
+
+# =========================================================
+# 👋 1. Hello World
+# =========================================================
+
+print("Hello, World!")
+
+
+# =========================================================
+# 🎓 2. Código mostrando a alma do Python
+# =========================================================
+
+def quem_passou_de_ano(notas_da_turma):
+    aprovados = []
+
+    for nota in notas_da_turma:
+        if nota >= 7.0:
+            aprovados.append(nota)
+
+    return aprovados
+
+
+notas_dos_alunos = [8.5, 4.2, 7.0, 9.1, 5.5]
+
+resultado_final = quem_passou_de_ano(notas_dos_alunos)
+
+print("Notas dos aprovados:", resultado_final)
+
+# Fonte: pypi.org
+# Feito: 21/05/2026
+Data de realização: 21/05/2026
+
+Fontes de pesquisa:
+
+urlPython Software Foundationhttps://www.python.org
+urlDocumentação Oficial do Pythonhttps://docs.python.org/3/
+urlW3Schools Python Tutorialhttps://www.w3schools.com/python/
+urlGeeksforGeeks Python Overviewhttps://www.geeksforgeeks.org/python-programming-language-overview/
+Parte de Lucca
+História da linguagem
+
+A linguagem Python foi criada no final da década de 1980 por Guido van Rossum, nos Países Baixos. Seu desenvolvimento começou no Centro de Matemática e Ciência da Computação (CWI) e a primeira versão oficial foi lançada em 1991.
+
+O objetivo de Python era criar uma linguagem simples, fácil de ler e produtiva para programadores. O nome “Python” não vem da cobra, mas sim do grupo de comédia britânico “Monty Python”.
+
+Com o passar dos anos, Python se tornou uma das linguagens mais populares do mundo, sendo muito utilizada em desenvolvimento web, inteligência artificial, automação e ciência de dados.
+
+Criador(es)
+
+O principal criador da linguagem Python é:
+
+Guido van Rossum — programador holandês conhecido como o “Benevolent Dictator For Life” (BDFL) do Python durante muitos anos.
+
+Além dele, milhares de desenvolvedores da comunidade open source ajudam no desenvolvimento da linguagem.
+
+Curiosidades
+Python foi inspirada em linguagens como ABC, C e Modula-3.
+O símbolo oficial da linguagem possui duas cobras.
+Python é uma linguagem open source.
+Grandes empresas como Google e Netflix utilizam Python.
+A linguagem é muito usada em Inteligência Artificial e Machine Learning.
+Python possui uma filosofia chamada “Zen of Python”, com princípios de código simples e legível.     
+parte de Pedro Nobrega
+Data de realização: 21/05/2026
+
+Fontes de pesquisa:
+
+urlPython Software Foundationhttps://www.python.org
+urlDocumentação Oficial do Pythonhttps://docs.python.org/3/
+urlW3Schools Python Tutorialhttps://www.w3schools.com/python/
+urlGeeksforGeeks Python Overviewhttps://www.geeksforgeeks.org/python-programming-language-overview/
+Vantagens e desvantagens
+Vantagens
+Sintaxe simples e fácil de aprender.
+Grande quantidade de bibliotecas prontas.
+Funciona em diferentes sistemas operacionais.
+Muito utilizada no mercado de trabalho.
+Excelente para automação e ciência de dados.
+Desvantagens
+Pode ser mais lenta que linguagens compiladas como C++.
+Consome mais memória em alguns casos.
+Não é a melhor escolha para aplicativos mobile.
+Menor desempenho em aplicações extremamente pesadas.
+Empresas que utilizam Python
+
+Diversas empresas famosas utilizam Python em seus sistemas e serviços, entre elas:
+
+Google
+Netflix
+Instagram
+Spotify
+Dropbox
+NASA
+YouTube
+Uber
+
+Essas empresas utilizam Python para desenvolvimento web, análise de dados, inteligência artificial, automação e sistemas internos.
